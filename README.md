@@ -7,4 +7,8 @@ This project is a Python-based implementation of the classic Rock-Paper-Scissors
 - **Animated Countdown:**   The game includes a brief animation before revealing the winner.
 - **Score Tracking:**       The player's and computer's scores are tracked and displayed after each round.
 - **Result Logging:**       All game results and scores are saved in `RPSResults.txt`.
-- **ANSI Escape Codes:**    Colors and text formatting in the terminal are achieved using ANSI escape codes.
+
+## Technologies Used
+- **Python:** The entire game is implemented in Python, leveraging built-in functions and libraries.
+- **ANSI Escape Sequences:** Used for adding colors to the terminal output for a more engaging user experience.
+
